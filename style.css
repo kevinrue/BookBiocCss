@@ -33,3 +33,11 @@ pre code {
   color: black;
   opacity: .5;
 }
+
+.book .book-body .page-wrapper .page-inner section.normal h1 {
+  color: #87b13f;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h2 {
+  color: #1a81c2;
+}
